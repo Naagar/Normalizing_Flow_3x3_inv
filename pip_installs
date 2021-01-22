@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Before running this, make sure your cuda libraries are accessible
+# in the LD_LIBRARY_PATH, you may need to do something like this
+# export LD_LIBRARY_PATH=/usr/local/apps/cuDNN/7-cuda10/lib64:$LD_LIBRARY_PATH
+
+pip3 install numpy Cython toposort pillow tqdm matplotlib jupyter
+pip3 install tensorflow-gpu==1.12
+HOROVOD_WITH_TENSORFLOW=1 pip3 install --no-cache-dir horovod
+pip3 install keras
