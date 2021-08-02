@@ -15,8 +15,18 @@ This work is the adapted from [Emerging Convolutions for Generative Normalizing 
 ```
 Emiel Hoogeboom, Rianne van den Berg, and Max Welling. Emerging Convolutions for Generative Normalizing Flows. International Conference on Machine Learning, 2019.
 ```
+## Method
+![Why CInC?](images/CInC_flow_drawing_paper.png)
+
+## Flow module
+
+![module](images/norm_flow.png)
+
 ## Image interpolation sample 
-![TPM-21](images/tpm21.png)
+![Changing Hair Color, original: right](images/blond_hair_id142.png )
+![Changing smile](images/high_cheekbones_id7.png)
+![Removing the glasses](images/glasses_id151.png)
+![Gradually changing the age parameter](images/id42_aging.png)
 
 ## Requirements
 The ```pip_installs``` script can be used to install all the required packages using pip.
