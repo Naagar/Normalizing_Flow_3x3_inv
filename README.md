@@ -1,4 +1,6 @@
-# Normalizing-flow
+# CInC Flow 
+
+PAPER: [link](https://arxiv.org/abs/2107.01358)
 
 Implementation of improvements for generative normalizing flows and more specifically Glow. 
 
