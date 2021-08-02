@@ -1,6 +1,11 @@
-# CInC Flow 
+# CInC Flow: Characterizable Invertible 3X3 Convolution
 
 PAPER: [link](https://arxiv.org/abs/2107.01358)
+
+
+Accepted: 4th workshop TPM 2021 (UAI-21)
+![TPM-21](images/tpm21.png)
+
 
 Implementation of improvements for generative normalizing flows and more specifically Glow. 
 
@@ -10,6 +15,8 @@ This work is the adapted from [Emerging Convolutions for Generative Normalizing 
 ```
 Emiel Hoogeboom, Rianne van den Berg, and Max Welling. Emerging Convolutions for Generative Normalizing Flows. International Conference on Machine Learning, 2019.
 ```
+## Image interpolation sample 
+![TPM-21](images/tpm21.png)
 
 ## Requirements
 The ```pip_installs``` script can be used to install all the required packages using pip.
