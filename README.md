@@ -16,7 +16,7 @@ This work is the adapted from [Emerging Convolutions for Generative Normalizing 
 Emiel Hoogeboom, Rianne van den Berg, and Max Welling. Emerging Convolutions for Generative Normalizing Flows. International Conference on Machine Learning, 2019.
 ```
 ## Method
-![Why CInC?](images/CInC_fFlow.png)
+![Why CInC?](images/CInC_Flow.png)
 
 ## Flow module
 
