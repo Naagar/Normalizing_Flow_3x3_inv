@@ -131,5 +131,5 @@ mpiexec -n 1 python3 train.py --problem cifar10 --image_size 32 --n_level 3 --de
 3x3 convolution and quad-coupling:
 ```
 mpiexec -n 1 python3 train.py --problem cifar10 --image_size 32 --n_level 3 --depth 32 --flow_permutation 7 --flow_coupling 2 --seed 2 --learnprior --lr 0.001 --n_bits_x 8 --sample
-## Contact
-sandeep.nagar@research.iiit.ac.in
+```
+## Contact: sandeep.nagar@research.iiit.ac.in
