@@ -11,7 +11,7 @@ Implementation of improvements for generative normalizing flows and more specifi
 
 We extend the 1x1 convolutions used in glow to convolutions with any kernel size and we introduce a new coupling layer.
 
-This work is the adapted from [Emerging Convolutions for Generative Normalizing Flows](https://github.com/ehoogeboom/emerging):
+This work is adapted from [Emerging Convolutions for Generative Normalizing Flows](https://github.com/ehoogeboom/emerging):
 ```
 Emiel Hoogeboom, Rianne van den Berg, and Max Welling. Emerging Convolutions for Generative Normalizing Flows. International Conference on Machine Learning, 2019.
 ```
