@@ -1,6 +1,7 @@
-# [CInC Flow: Characterizable Invertible 3X3 Convolution]([https://arxiv.org/abs/2107.01358](https://openreview.net/forum?id=kl1ds_AeLRM))
+# [CInC Flow: Characterizable Invertible 3X3 Convolution](https://arxiv.org/abs/2107.01358)
+[OpenReview](https://openreview.net/forum?id=kl1ds_AeLRM)
 
-PAPER: [link]([https://arxiv.org/abs/2107.01358](https://openreview.net/forum?id=kl1ds_AeLRM))
+PAPER: [link](https://arxiv.org/abs/2107.01358)
 
 
 Accepted: 4th workshop TPM 2021 (UAI-21)
