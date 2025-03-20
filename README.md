@@ -134,3 +134,11 @@ mpiexec -n 1 python3 train.py --problem cifar10 --image_size 32 --n_level 3 --de
 mpiexec -n 1 python3 train.py --problem cifar10 --image_size 32 --n_level 3 --depth 32 --flow_permutation 7 --flow_coupling 2 --seed 2 --learnprior --lr 0.001 --n_bits_x 8 --sample
 ```
 ## have a question?,  contact: sandeep.nagar@research.iiit.ac.in
+
+## Cite:
+    @inproceedings{nagar2021cinc,
+    title={{CI}nC Flow: Characterizable Invertible $ 3 \times 3 $ Convolution},
+    author={Sandeep Nagar and Marius Dufraisse and Girish Varma},
+    booktitle={The 4th Workshop on Tractable Probabilistic Modeling, Uncertainty in Artificial Intelligence (UAI)},
+    year={2021},
+    }
